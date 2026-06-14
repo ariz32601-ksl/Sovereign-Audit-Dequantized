@@ -31,7 +31,7 @@ def generate_csv():
         
         # --- 5. SYNTHETIC TEST ---
         # Viagra. It is complex, but designed by humans. Does it score like Nature?
-        ("Sildenafil", "CCCC1=NN(C2=C1N=C(NC2=O)C3=CC(=CC=C3)S(=O)(=O)N4CCN(CC4)C)C", "Synthetic_Drug", "Sovereign_Lab")
+        ("Sildenafil", "CCCC1=NN(C2=C1N=C(NC2=O)C3=CC(=CC=C3)S(=O)(=O)N4CCN(CC4)C)C", "Synthetic_Drug", "Sovereign_Lab"),
         
         # From generate_final_csv.py
         # --- 1. THE ZENIL TRAP (Small E. coli Metabolites) ---
