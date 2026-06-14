@@ -111,7 +111,7 @@ If you use this code or data in your research, please cite the Zenodo archive:
   author={Tang, Chun and Aletheia and DeepSeek-Tang},
   journal={Zenodo / ChemRxiv},
   year={2026},
-  doi={10.5281/zenodo.YOUR_DOI_HERE}
+  doi={10.5281/zenodo.20693942}
 }
 
 ---
